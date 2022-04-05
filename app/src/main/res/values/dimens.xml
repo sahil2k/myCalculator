@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="std_margin">8dp</dimen>
+    <dimen name="textbox_height">300dp</dimen>
+    <dimen name="calculator_button_width">75dp</dimen>
+    <dimen name="calculator_button_text_size">18sp</dimen>
+</resources>
